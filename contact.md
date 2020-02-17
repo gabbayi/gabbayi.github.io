@@ -3,24 +3,22 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [g.abbayi@live.ca](mailto:g.abbayi@live.ca)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1 (780) 123-1234](#)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 50th Mclean Street
 >
-> London
+> Red Deer
 >
-> United Kingdom
+> Canada
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Linkedin](#)
