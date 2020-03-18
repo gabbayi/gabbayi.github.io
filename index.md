@@ -6,16 +6,14 @@ layout: default
 
 <img class="profile-picture" src="koala.jpeg">
 
-I need to change all the details, If you came across this, GREAT!
+Mechanicial Engineer graduate from University of Alberta.
 
-## Research Interest
+Interested in photography [shrukhul](https://www.instagram.com/shrukhul/)
 
-Need to find the interest.
 
-## Publications
+## HIGHLIGHTS OF QUALIFICATION 
 
-1. None
-2. More None.
+
 
 ## Typography
 

@@ -9,11 +9,11 @@ is_contact: true
 
 ---
 
-## Mailing Address
+## Location
 
-> 50th Mclean Street
+> Edmonton
 >
-> Red Deer
+> Alberta
 >
 > Canada
 
@@ -21,4 +21,4 @@ is_contact: true
 
 ## Social
 
-1. [Linkedin](#)
+1. [Linkedin](www.linkedin.com/in/gokhul-abbayi-330797125)
