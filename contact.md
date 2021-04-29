@@ -3,20 +3,28 @@ layout: default
 is_contact: true
 ---
 
-* Email: [g.abbayi@live.ca](mailto:g.abbayi@live.ca)
+## Contact
 
----
-
-## Location
-
-> Edmonton
+<form
+  action="https://formspree.io/f/xjvjgyzv"
+  method="POST"
 >
-> Alberta
->
-> Canada
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
 
 ---
 
 ## Social
 
-1. [Linkedin](www.linkedin.com/in/abbayi)
+1. [Linkedin](https://www.linkedin.com/in/abbayi)
