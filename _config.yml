@@ -1,13 +1,11 @@
-title: Resume
+title: Gokhul Abbayi
 url: ""
 baseurl: ""
 
-markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana, Redsign by koala"
 
@@ -17,8 +15,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "index"
+ - name: "LinkedIn"
+   link: "https://www.linkedin.com/in/abbayi"
  - name: "Contact"
    link: "contact"
