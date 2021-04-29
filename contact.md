@@ -21,4 +21,4 @@ is_contact: true
 
 ## Social
 
-1. [Linkedin](www.linkedin.com/in/gokhul-abbayi-330797125)
+1. [Linkedin](www.linkedin.com/in/abbayi)
