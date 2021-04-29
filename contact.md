@@ -5,8 +5,6 @@ is_contact: true
 
 * Email: [g.abbayi@live.ca](mailto:g.abbayi@live.ca)
 
-* Phone: [+1 (780) 123-1234](#)
-
 ---
 
 ## Location
@@ -21,4 +19,4 @@ is_contact: true
 
 ## Social
 
-1. [Linkedin](www.linkedin.com/in/gokhul-abbayi-330797125)
+1. [Linkedin](www.linkedin.com/in/abbayi)
