@@ -6,9 +6,8 @@ layout: default
 
 <img class="profile-picture" src="koala.jpeg">
 
-Mechanicial Engineer graduate from University of Alberta.
-
-Interested in photography [shrukhul](https://www.instagram.com/shrukhul/)
+Interested in photography. 
+[shrukhul](https://www.instagram.com/shrukhul/)
 
 
 ## HIGHLIGHTS OF QUALIFICATION 
