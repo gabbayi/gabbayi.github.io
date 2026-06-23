@@ -16,7 +16,7 @@ sass:
 nav:
  - name: "About"
    link: "index"
- - name: "LinkedIn"
-   link: "https://www.linkedin.com/in/abbayi"
+ - name: "Skat Scorecard"
+   link: "skat-scorecard"
  - name: "Contact"
    link: "contact"
