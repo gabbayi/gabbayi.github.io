@@ -5,16 +5,16 @@ permalink: /skat-scorekeeper/
 ---
 
 <style>
-body { font-family: monospace; margin:5px; }
-.container { max-width:760px; margin:auto; }
+body { font-family: monospace; margin:5px; font-size: clamp(12px, 3vw, 16px); }
+.container { max-width:760px; margin:auto; overflow-x:auto; }
 
-table { border-collapse:collapse; width:100%; table-layout:fixed; }
+table { border-collapse:collapse; width:100%; table-layout:fixed; font-size: inherit; }
 
 th, td {
   border:1px solid black;
   text-align:center;
-  height:22px;
-  font-size:11px;
+  min-height:22px;
+  font-size: clamp(10px, 2.5vw, 12px);
 }
 
 /* strong separator */
@@ -64,6 +64,14 @@ button#applyBtn:disabled {
 }
 
 .spacer { height:6px; }
+
+@media (max-width: 640px) {
+  .row-flex { flex-wrap: wrap; }
+  .btn { padding: 4px; min-width: 0; }
+  #names { flex-direction: column; }
+  #names input { width: 100%; }
+  input#bid { width: 100%; max-width: 140px; }
+}
 </style>
 
 <div class="container">
